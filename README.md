@@ -1,4 +1,4 @@
-# Elección de librerías
+# Library choices
 ## Test Runner -> TestNG (vs Junit)
 - It contains more useful annotations for the running order of tests in relation to Suites.
 - It makes it easier to execute tests in parallel.
@@ -21,6 +21,10 @@
 - It can connect with all the priorly mentioned libraries.
 
 ## Parser -> 
+
+
+# Implemented Design Pattern
+Prototype.
 
 
 
