@@ -20,8 +20,10 @@
 - The overview page has more information as well as useful graphs.
 - It can connect with all the priorly mentioned libraries.
 
-## Parser -> 
-
+## Parser -> JavaParser
+- It builds an Abstract Syntax Tree of the java code allowing for Analysis, Transformation and Generation of code around the written code.
+- It has a long history and its maintainer is well recognized.
+- The code it generates is more maintainable than parser combinators.
 
 # Implemented Design Pattern
 Prototype.
