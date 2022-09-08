@@ -7,6 +7,8 @@ import utils.MathUtils;
 
 public class DummyTest {
 
+    //Mirar Listeners de testng para cosas como screenshots. Y dataproviders, especialmente para data-driven frameworks
+
     @Test
     public void SumTest()
     {
